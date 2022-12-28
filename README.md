@@ -2,9 +2,9 @@
 
 I have some NVIDIA Jetson hardware that I have used for other projects (JetBot, etc..) and now I'd like to build an ARM-based Kubernetes cluster.
 
-Seeed Studio Jetson Mate 
-NVIDIA Jetson NX Xavier
-NVIDIA Jetson Nano
+Seeed Studio Jetson Mate   
+NVIDIA Jetson NX Xavier  
+NVIDIA Jetson Nano  
 
 
 Mac Mini (Intel) running:
